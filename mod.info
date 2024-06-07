@@ -2,3 +2,4 @@ name=Skilled Meditation
 id=SkilledMeditation
 poster=poster.png
 description=This is an add on mod for Burryaga's Meditation mod for Project Zomboid. It converts meditation into a new skill.
+require=Meditation
